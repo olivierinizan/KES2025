@@ -1,0 +1,19 @@
+created, playsfor-inv
+skos:preflabel, wascreatedondate
+created, wascreatedonyear, graduatedfrom-inv
+wascreatedondate, graduatedfrom-inv
+playsfor-inv, owns
+skos:preflabel, hasmotto, graduatedfrom-inv
+created, hasmotto
+islocatedin, created, wascreatedonyear
+skos:preflabel, wascreatedonyear, hasmotto
+skos:preflabel, playsfor-inv
+created, skos:preflabel
+playsfor-inv, hasmotto
+created, wascreatedondate
+owns, wascreatedondate
+playsfor-inv, wascreatedonyear, graduatedfrom-inv
+created, owns
+skos:preflabel, owns
+playsfor-inv, wascreatedondate
+owns, hasmotto

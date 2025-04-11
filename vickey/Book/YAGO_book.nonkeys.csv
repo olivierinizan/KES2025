@@ -1,0 +1,2 @@
+1-non keys: [[wascreatedondate, wascreatedonyear, haspages, created-inv], [haspages, islocatedin, created-inv], [wascreatedonyear, islocatedin, created-inv], [wascreatedondate, wascreatedonyear, islocatedin], [wascreatedonyear, haspages, islocatedin], [wascreatedonyear, skos:preflabel]]
+6 discovered 1-non keys

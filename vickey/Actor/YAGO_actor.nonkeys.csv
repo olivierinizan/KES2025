@@ -1,0 +1,69 @@
+directed, skos:preflabel
+haschild, iscitizenof
+haschild, haswonprize, created
+wasbornonyear, wasbornondate, diedin, wasbornin
+wasbornonyear, diedin, ismarriedto, ismarriedto-inv
+diedin, ismarriedto, wasbornin, ismarriedto-inv
+haswonprize, wasbornonyear, skos:preflabel
+wasbornonyear, wasbornondate, created, wasbornin
+iscitizenof, diedin, diedonyear, wasbornin
+wasbornonyear, diedonyear, wasbornin, skos:preflabel
+haswonprize, wasbornonyear, created, directed, ismarriedto, wasbornin, ismarriedto-inv
+iscitizenof, created, influences
+haschild, diedonyear
+wasbornonyear, diedonyear, ismarriedto, skos:preflabel
+haschild, diedin, wasbornin
+diedondate, wasbornonyear, diedonyear, ismarriedto
+haswonprize, iscitizenof, wasbornonyear, wasbornin
+wasbornonyear, created, diedonyear
+iscitizenof, diedin, influences, actedin
+wasbornonyear, created, directed, wasbornin, actedin
+haswonprize, wasbornonyear, wasbornondate, wasbornin
+haswonprize, wasbornonyear, influences, actedin
+haswonprize, iscitizenof, diedin, actedin
+haswonprize, wasbornonyear, ismarriedto, wasbornin, actedin
+haswonprize, influences, wasbornin
+iscitizenof, diedin, wasbornin, actedin
+haswonprize, wasbornonyear, diedin, diedonyear, wasbornin, actedin
+haswonprize, created, diedin, wasbornin
+haschild, created, actedin
+created, diedonyear, actedin
+diedondate, diedin, diedonyear, wasbornin
+haswonprize, created, influences, actedin
+diedin, diedonyear, influences
+iscitizenof, diedonyear, influences
+created, diedin, directed
+haswonprize, created, directed, actedin
+haschild, ismarriedto
+diedin, directed, actedin
+diedondate, diedonyear, actedin
+iscitizenof, directed
+diedin, influences, wasbornin
+diedonyear, influences, actedin
+haswonprize, diedin, directed
+diedin, directed, wasbornin
+diedin, diedonyear, ismarriedto
+haswonprize, iscitizenof, wasbornonyear, actedin
+iscitizenof, created, wasbornin
+iscitizenof, wasbornonyear, diedin
+diedondate, haswonprize, diedonyear
+haswonprize, wasbornonyear, created, wasbornin, actedin
+diedondate, iscitizenof, diedonyear
+haswonprize, created, diedin, actedin
+haswonprize, iscitizenof, wasbornonyear, created
+created, directed, diedonyear
+influences, wasbornin, actedin
+haschild, haswonprize, wasbornonyear, diedin, actedin
+created, ismarriedto, actedin
+haswonprize, wasbornonyear, wasbornondate, actedin
+haswonprize, wasbornonyear, created, influences
+ismarriedto, actedin, ismarriedto-inv
+iscitizenof, influences, wasbornin
+haschild, wasbornin, actedin
+diedondate, wasbornonyear, wasbornondate, diedonyear, wasbornin
+iscitizenof, wasbornonyear, diedonyear
+wasbornonyear, created, influences, wasbornin
+wasbornonyear, wasbornondate, wasbornin, actedin
+diedondate, wasbornonyear, diedin, diedonyear
+directed, diedonyear, wasbornin
+haswonprize, diedin, influences

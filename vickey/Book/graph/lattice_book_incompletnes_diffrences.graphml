@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="o30/129" />
+    <node id="o31/82" />
+    <node id="o32/70" />
+    <node id="o33/133" />
+    <node id="o41/516" />
+    <node id="o50/159" />
+    <node id="o51/118" />
+    <edge source="o30/129" target="o41/516" />
+    <edge source="o32/70" target="o41/516" />
+    <edge source="o33/133" target="o41/516" />
+    <edge source="o41/516" target="o50/159" />
+    <edge source="o41/516" target="o51/118" />
+  </graph>
+</graphml>

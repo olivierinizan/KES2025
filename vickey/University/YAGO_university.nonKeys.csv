@@ -1,0 +1,9 @@
+islocatedin, owns, wascreatedonyear, graduatedfrom-inv
+islocatedin, skos:preflabel, hasmotto
+islocatedin, created, graduatedfrom-inv
+islocatedin, wascreatedonyear, hasmotto, wascreatedondate
+created, wascreatedonyear
+islocatedin, wascreatedonyear, hasmotto, graduatedfrom-inv
+islocatedin, playsfor-inv, graduatedfrom-inv
+islocatedin, playsfor-inv, wascreatedonyear
+islocatedin, skos:preflabel, wascreatedonyear, graduatedfrom-inv

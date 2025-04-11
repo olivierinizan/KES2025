@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="o30/56" />
+    <node id="o31/76" />
+    <node id="o312/5" />
+    <node id="o314/6" />
+    <node id="o32/75" />
+    <node id="o33/39" />
+    <node id="o35/29" />
+    <node id="o36/8" />
+    <node id="o38/7" />
+    <node id="o40/7" />
+    <node id="o41/13" />
+    <node id="o411/16" />
+    <node id="o412/17" />
+    <node id="o414/5" />
+    <node id="o42/8" />
+    <node id="o43/6" />
+    <node id="o44/16" />
+    <node id="o46/13" />
+    <node id="o48/12" />
+    <node id="o512/12" />
+    <node id="o52/14" />
+    <node id="o56/5" />
+    <node id="o65/9" />
+    <node id="o66/5" />
+    <edge source="o30/56" target="o41/13" />
+    <edge source="o30/56" target="o48/12" />
+    <edge source="o30/56" target="o42/8" />
+    <edge source="o31/76" target="o411/16" />
+    <edge source="o31/76" target="o41/13" />
+    <edge source="o31/76" target="o40/7" />
+    <edge source="o312/5" target="o414/5" />
+    <edge source="o314/6" target="o46/13" />
+    <edge source="o32/75" target="o412/17" />
+    <edge source="o32/75" target="o411/16" />
+    <edge source="o32/75" target="o48/12" />
+    <edge source="o33/39" target="o44/16" />
+    <edge source="o35/29" target="o412/17" />
+    <edge source="o35/29" target="o42/8" />
+    <edge source="o35/29" target="o40/7" />
+    <edge source="o35/29" target="o43/6" />
+    <edge source="o35/29" target="o414/5" />
+    <edge source="o38/7" target="o46/13" />
+    <edge source="o40/7" target="o56/5" />
+    <edge source="o411/16" target="o56/5" />
+    <edge source="o412/17" target="o56/5" />
+    <edge source="o46/13" target="o52/14" />
+    <edge source="o46/13" target="o512/12" />
+    <edge source="o512/12" target="o65/9" />
+    <edge source="o52/14" target="o65/9" />
+    <edge source="o52/14" target="o66/5" />
+  </graph>
+</graphml>

@@ -1,0 +1,178 @@
+isleaderof-inv, skos:preflabel, hasnumberofpeople
+islocatedin-inv, haspopulationdensity, hasnumberofpeople
+hasmotto, wascreatedondate, skos:preflabel
+islocatedin-inv, hasmotto, wascreatedonyear, haslongitude
+islocatedin-inv, hasmotto, isleaderof-inv, hasnumberofpeople
+wascreatedonyear, isleaderof-inv, haslongitude
+wasbornin-inv, created-inv
+wascreatedondate, wasbornin-inv, haslatitude
+hasmotto, isleaderof-inv, skos:preflabel
+diedin-inv, isleaderof-inv, hasnumberofpeople
+diedin-inv, hasmotto, wascreatedonyear
+wascreatedondate, hascapital-inv
+hasmotto, islocatedin, wasbornin-inv, livesin-inv
+diedin-inv, wasbornin-inv, skos:preflabel
+diedin-inv, isleaderof-inv, haslongitude
+happenedin-inv, isleaderof-inv, skos:preflabel
+hascapital-inv, wasbornin-inv, livesin-inv
+diedin-inv, isleaderof-inv, haslatitude
+wascreatedonyear, haslongitude, hasnumberofpeople
+wascreatedonyear, livesin-inv, haslongitude
+hascapital-inv, skos:preflabel
+hasmotto, haspopulationdensity, haslongitude
+wascreatedondate, haslatitude, hasnumberofpeople
+wascreatedondate, isleaderof-inv, livesin-inv
+wascreatedondate, livesin-inv, haslongitude
+wascreatedondate, wasbornin-inv, haslongitude
+hasmotto, wasbornin-inv, skos:preflabel
+isleaderof-inv, wasbornin-inv, livesin-inv
+created-inv, haslongitude
+diedin-inv, haslatitude, hasnumberofpeople
+wascreatedondate, livesin-inv, hasnumberofpeople
+isleaderof-inv, wasbornin-inv, haslatitude
+hasmotto, created-inv
+hasmotto, islocatedin, skos:preflabel
+hasmotto, livesin-inv, hasnumberofpeople
+diedin-inv, wascreatedondate, haslongitude
+happenedin-inv, wascreatedonyear, haslongitude
+happenedin-inv, islocatedin-inv, isleaderof-inv
+diedin-inv, wascreatedonyear, skos:preflabel
+hasmotto, wascreatedonyear, wasbornin-inv
+hasmotto, haspopulationdensity, haslatitude
+diedin-inv, hasmotto, livesin-inv
+happenedin-inv, livesin-inv, haslongitude
+wascreatedondate, haspopulationdensity
+islocatedin-inv, haspopulationdensity, haslatitude
+diedin-inv, isleaderof-inv, livesin-inv
+wascreatedonyear, haslatitude, hasnumberofpeople
+livesin-inv, haslatitude
+happenedin-inv, haslongitude, skos:preflabel
+islocatedin-inv, wascreatedonyear, isleaderof-inv, hasnumberofpeople
+isleaderof-inv, haslongitude, hasnumberofpeople
+isleaderof-inv, livesin-inv, haslongitude
+wascreatedondate, isleaderof-inv, haslatitude
+happenedin-inv, wasbornin-inv, hasnumberofpeople
+happenedin-inv, islocatedin-inv, skos:preflabel
+isleaderof-inv, wasbornin-inv, haslongitude
+wascreatedondate, isleaderof-inv, haslongitude
+hasmotto, wascreatedonyear, skos:preflabel
+diedin-inv, skos:preflabel, hasnumberofpeople
+happenedin-inv, livesin-inv, hasnumberofpeople
+hasmotto, haslongitude, skos:preflabel
+islocatedin-inv, created-inv
+wasbornin-inv, haslatitude, hasnumberofpeople
+wasbornin-inv, skos:preflabel, hasnumberofpeople
+hasmotto, wascreatedondate, livesin-inv
+hasmotto, haslongitude, hasnumberofpeople
+islocatedin-inv, wascreatedonyear, haslatitude
+diedin-inv, wascreatedonyear, livesin-inv
+wasbornin-inv, haslongitude, skos:preflabel
+diedin-inv, hasmotto, haslatitude
+hasmotto, wascreatedondate, wasbornin-inv
+islocatedin-inv, wascreatedondate, haslatitude
+diedin-inv, wascreatedondate, livesin-inv
+diedin-inv, happenedin-inv, isleaderof-inv
+wascreatedondate, skos:preflabel, haslatitude
+wascreatedondate, haslongitude, skos:preflabel
+wascreatedondate, skos:preflabel, hasnumberofpeople
+isleaderof-inv, wasbornin-inv, skos:preflabel
+islocatedin-inv, livesin-inv, hasnumberofpeople
+hascapital-inv, hasnumberofpeople
+happenedin-inv, haspopulationdensity
+diedin-inv, hasmotto, hasnumberofpeople
+islocatedin-inv, haslongitude, skos:preflabel
+diedin-inv, livesin-inv, haslongitude
+wascreatedonyear, haslongitude, skos:preflabel
+diedin-inv, wascreatedonyear, haslongitude
+diedin-inv, happenedin-inv, skos:preflabel
+happenedin-inv, isleaderof-inv, wasbornin-inv
+happenedin-inv, haslongitude, hasnumberofpeople
+wascreatedonyear, skos:preflabel, hasnumberofpeople
+created-inv, haslatitude
+happenedin-inv, isleaderof-inv, haslongitude
+happenedin-inv, haslatitude
+happenedin-inv, wasbornin-inv, skos:preflabel
+livesin-inv, haslongitude, hasnumberofpeople
+livesin-inv, skos:preflabel
+happenedin-inv, wascreatedonyear, livesin-inv
+islocatedin-inv, skos:preflabel, hasnumberofpeople
+hasmotto, wascreatedonyear, livesin-inv
+diedin-inv, wascreatedonyear, haslatitude
+livesin-inv, created-inv
+islocatedin-inv, livesin-inv, haslongitude
+wascreatedonyear, wasbornin-inv, haslongitude
+hasmotto, hascapital-inv
+diedin-inv, livesin-inv, hasnumberofpeople
+happenedin-inv, isleaderof-inv, hasnumberofpeople
+diedin-inv, hasmotto, haslongitude
+diedin-inv, isleaderof-inv, skos:preflabel
+diedin-inv, hasmotto, skos:preflabel
+islocatedin-inv, wascreatedondate, isleaderof-inv, hasnumberofpeople
+wascreatedondate, haslongitude, hasnumberofpeople
+wascreatedonyear, wasbornin-inv, skos:preflabel
+wascreatedonyear, hascapital-inv
+diedin-inv, happenedin-inv, hasnumberofpeople
+wascreatedonyear, isleaderof-inv, haslatitude
+diedin-inv, skos:preflabel, haslatitude
+hasmotto, wasbornin-inv, haslongitude
+happenedin-inv, wascreatedonyear, hasnumberofpeople
+hasmotto, skos:preflabel, hasnumberofpeople
+haspopulationdensity, created-inv
+hascapital-inv, haspopulationdensity
+islocatedin-inv, haspopulationdensity, skos:preflabel
+islocatedin-inv, hasmotto, wasbornin-inv, hasnumberofpeople
+wasbornin-inv, skos:preflabel, haslatitude
+diedin-inv, wascreatedondate, haslatitude
+hasmotto, wascreatedondate, isleaderof-inv
+wasbornin-inv, livesin-inv, hasnumberofpeople
+haspopulationdensity, skos:preflabel, hasnumberofpeople
+diedin-inv, hasmotto, wascreatedondate
+hasmotto, haspopulationdensity, hasnumberofpeople
+diedin-inv, haspopulationdensity
+isleaderof-inv, haslongitude, skos:preflabel
+wascreatedonyear, haspopulationdensity
+happenedin-inv, created-inv
+happenedin-inv, wascreatedondate
+happenedin-inv, hascapital-inv
+islocatedin-inv, islocatedin, wasbornin-inv, haslongitude, haslatitude
+hascapital-inv, haslatitude
+hasmotto, wascreatedonyear, hasnumberofpeople
+hasmotto, skos:preflabel, haslatitude
+islocatedin-inv, wasbornin-inv, skos:preflabel
+hasmotto, haspopulationdensity, skos:preflabel
+isleaderof-inv, wasbornin-inv, hasnumberofpeople
+happenedin-inv, wascreatedonyear, skos:preflabel
+isleaderof-inv, skos:preflabel, haslatitude
+hasmotto, livesin-inv, haslongitude
+isleaderof-inv, haslatitude, hasnumberofpeople
+created-inv, skos:preflabel
+wasbornin-inv, haspopulationdensity
+livesin-inv, haspopulationdensity
+islocatedin-inv, hasmotto, skos:preflabel
+diedin-inv, wascreatedondate, skos:preflabel
+wascreatedonyear, wasbornin-inv, haslatitude
+hascapital-inv, haslongitude
+happenedin-inv, hasmotto
+islocatedin-inv, hasmotto, wascreatedondate, haslongitude
+hasmotto, wascreatedondate, hasnumberofpeople
+wascreatedondate, wasbornin-inv, skos:preflabel
+islocatedin-inv, haspopulationdensity, haslongitude
+hascapital-inv, created-inv
+isleaderof-inv, livesin-inv, hasnumberofpeople
+diedin-inv, haslongitude, skos:preflabel
+diedin-inv, happenedin-inv, wascreatedonyear
+diedin-inv, created-inv
+happenedin-inv, isleaderof-inv, livesin-inv
+islocatedin-inv, skos:preflabel, haslatitude
+happenedin-inv, skos:preflabel, hasnumberofpeople
+hasmotto, isleaderof-inv, livesin-inv
+islocatedin-inv, haslatitude, hasnumberofpeople
+wascreatedonyear, livesin-inv, hasnumberofpeople
+islocatedin-inv, hasmotto, haspopulationdensity
+isleaderof-inv, hascapital-inv
+wascreatedonyear, skos:preflabel, haslatitude
+islocatedin-inv, wascreatedondate, livesin-inv
+isleaderof-inv, haspopulationdensity
+wascreatedondate, wasbornin-inv, livesin-inv
+hasmotto, haslatitude, hasnumberofpeople
+diedin-inv, islocatedin-inv, wasbornin-inv, haslongitude, haslatitude

@@ -1,0 +1,93 @@
+directed, skos:preflabel
+iscitizenof, influences
+iscitizenof, created
+directed, diedonyear
+diedondate, influences
+diedin, influences
+diedondate, created
+haschild, iscitizenof
+diedondate, iscitizenof
+iscitizenof, wasbornondate, actedin
+iscitizenof, wasbornin, skos:preflabel
+wasbornonyear, diedin, ismarriedto-inv
+diedonyear, skos:preflabel
+haschild, ismarriedto-inv
+wasbornonyear, iscitizenof, skos:preflabel
+influences, wasbornin
+wasbornonyear, diedin, created
+wasbornonyear, created, wasbornin
+haschild, wasbornondate
+iscitizenof, wasbornondate, wasbornin
+haswonprize, diedin, wasbornin
+diedondate, ismarriedto
+wasbornondate, ismarriedto-inv
+haswonprize, created, directed
+wasbornondate, directed
+wasbornonyear, diedonyear, actedin
+wasbornondate, skos:preflabel, actedin
+diedondate, wasbornonyear
+wasbornondate, diedonyear
+haschild, diedonyear
+wasbornonyear, created, directed
+haswonprize, wasbornonyear, created
+haswonprize, ismarriedto-inv
+diedonyear, ismarriedto
+diedondate, ismarriedto-inv
+directed, influences
+directed, ismarriedto
+haschild, diedin
+created, influences
+haswonprize, ismarriedto
+wasbornonyear, influences
+wasbornonyear, ismarriedto, wasbornin
+wasbornin, ismarriedto-inv
+diedondate, actedin
+diedondate, directed
+diedin, created, actedin
+directed, ismarriedto-inv
+diedonyear, ismarriedto-inv
+influences, skos:preflabel
+skos:preflabel, ismarriedto-inv
+haschild, directed
+wasbornondate, diedin
+iscitizenof, ismarriedto
+haschild, wasbornonyear
+actedin, ismarriedto-inv
+wasbornondate, ismarriedto
+haschild, influences
+diedin, skos:preflabel
+haswonprize, diedonyear
+haschild, ismarriedto
+haswonprize, diedin, created
+diedonyear, influences
+iscitizenof, directed
+created, ismarriedto-inv
+created, skos:preflabel
+influences, ismarriedto
+diedondate, wasbornondate
+wasbornondate, influences
+influences, ismarriedto-inv
+iscitizenof, skos:preflabel, actedin
+haswonprize, skos:preflabel
+diedin, ismarriedto
+diedin, directed
+diedondate, skos:preflabel
+wasbornonyear, directed, wasbornin
+iscitizenof, diedonyear, actedin
+ismarriedto, actedin
+created, diedonyear
+haswonprize, iscitizenof
+haschild, haswonprize
+created, ismarriedto
+wasbornondate, created
+haswonprize, wasbornondate
+haswonprize, wasbornonyear, diedin
+ismarriedto, skos:preflabel
+diedondate, haschild
+haswonprize, influences
+diedondate, haswonprize
+iscitizenof, wasbornondate, skos:preflabel
+haschild, skos:preflabel
+wasbornonyear, skos:preflabel, actedin
+haschild, created
+iscitizenof, ismarriedto-inv]]

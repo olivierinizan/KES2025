@@ -1,0 +1,22 @@
+diedondate, diedin, diedonyear, wasbornin
+haswonprize, wasbornonyear, wasbornin, actedin
+influences, actedin
+wasbornonyear, iscitizenof, wasbornondate
+diedin, created, wasbornin
+wasbornonyear, ismarriedto, ismarriedto-inv
+haswonprize, wasbornonyear, directed, actedin
+ismarriedto, wasbornin
+created, directed, wasbornin, actedin
+wasbornonyear, created, actedin
+haswonprize, directed, wasbornin, actedin
+haswonprize, created, wasbornin, actedin
+diedin, diedonyear, wasbornin, actedin
+wasbornonyear, iscitizenof, diedin, diedonyear, wasbornin
+haswonprize, diedin, actedin
+wasbornonyear, iscitizenof, diedin, wasbornin, actedin
+wasbornin, skos:preflabel, actedin
+diedin, ismarriedto-inv
+iscitizenof, skos:preflabel
+haschild, wasbornin, actedin
+wasbornonyear, wasbornondate, wasbornin, skos:preflabel
+wasbornonyear, wasbornondate, wasbornin, actedin

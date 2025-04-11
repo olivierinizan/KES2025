@@ -1,0 +1,29 @@
+islocatedin, happenedin-inv, haslongitude
+islocatedin, happenedin-inv, islocatedin-inv, wascreatedonyear, livesin-inv, hasmotto, hascapital-inv
+islocatedin, haspopulationdensity, haslongitude
+islocatedin, wascreatedonyear, wascreatedondate, hascapital-inv
+islocatedin, skos:preflabel, hascapital-inv
+haslatitude, islocatedin, haslongitude, isleaderof-inv
+haslatitude, islocatedin, happenedin-inv
+islocatedin, isleaderof-inv, wascreatedonyear, wascreatedondate
+hasnumberofpeople, haslatitude, islocatedin, haslongitude
+hasnumberofpeople, islocatedin, islocatedin-inv, wascreatedonyear, livesin-inv, hasmotto, hascapital-inv
+haslatitude, islocatedin, haspopulationdensity
+islocatedin, happenedin-inv, islocatedin-inv, wascreatedonyear, wasbornin-inv, livesin-inv, hascapital-inv
+islocatedin, haspopulationdensity, islocatedin-inv
+hasnumberofpeople, islocatedin, happenedin-inv, islocatedin-inv, wascreatedonyear, hasmotto
+hasnumberofpeople, islocatedin, skos:preflabel
+haslatitude, islocatedin, haslongitude, wascreatedonyear
+islocatedin, haslongitude, islocatedin-inv, livesin-inv
+haslatitude, islocatedin, islocatedin-inv
+hasnumberofpeople, islocatedin, haspopulationdensity
+hasnumberofpeople, islocatedin, happenedin-inv, islocatedin-inv, wascreatedonyear, livesin-inv
+hasnumberofpeople, islocatedin, isleaderof-inv, islocatedin-inv, livesin-inv
+islocatedin, happenedin-inv, created-inv, islocatedin-inv
+islocatedin, haspopulationdensity, wascreatedonyear, wascreatedondate
+islocatedin, happenedin-inv, created-inv, hascapital-inv
+hasnumberofpeople, islocatedin, islocatedin-inv, wascreatedonyear, wascreatedondate
+islocatedin, happenedin-inv, isleaderof-inv, islocatedin-inv
+islocatedin, diedin-inv
+hasnumberofpeople, islocatedin, happenedin-inv, islocatedin-inv, wascreatedonyear, hascapital-inv
+haslatitude, haslongitude, islocatedin-inv

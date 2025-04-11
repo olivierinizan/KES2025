@@ -1,0 +1,5 @@
+hasisbn, wascreatedonyear, skos:preflabel
+wascreatedondate, skos:preflabel
+haspages, wascreatedonyear, skos:preflabel
+wascreatedonyear, islocatedin, skos:preflabel
+wascreatedonyear, created-inv, skos:preflabel

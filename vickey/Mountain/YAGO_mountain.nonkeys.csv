@@ -1,0 +1,4 @@
+islocatedin, skos:preflabel
+islocatedin, haslongitude, islocatedin-inv
+islocatedin, happenedin-inv
+islocatedin, haslatitude, haslongitude
